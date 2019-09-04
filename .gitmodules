@@ -1,0 +1,3 @@
+[submodule "group_autotesting/googletest"]
+	path = group_autotesting/googletest
+	url = https://github.com/google/googletest.git
