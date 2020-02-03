@@ -7,6 +7,3 @@
 [submodule "group_foundation/poco"]
 	path = group_foundation/poco
 	url = https://github.com/pocoproject/poco.git
-[submodule "group_foundation/abseil-cpp"]
-	path = group_foundation/abseil-cpp
-	url = https://github.com/abseil/abseil-cpp.git
