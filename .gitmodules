@@ -10,3 +10,6 @@
 [submodule "group_media/SFML"]
 	path = group_media/SFML
 	url = https://github.com/SFML/SFML.git
+[submodule "group_media/openal-soft"]
+	path = group_media/openal-soft
+	url = https://github.com/kcat/openal-soft.git
