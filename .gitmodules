@@ -7,3 +7,6 @@
 [submodule "group_foundation/poco"]
 	path = group_foundation/poco
 	url = https://github.com/pocoproject/poco.git
+[submodule "group_media/SFML"]
+	path = group_media/SFML
+	url = https://github.com/SFML/SFML.git
