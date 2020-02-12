@@ -13,3 +13,6 @@
 [submodule "group_media/openal-soft"]
 	path = group_media/openal-soft
 	url = https://github.com/kcat/openal-soft.git
+[submodule "group_media/SDL"]
+	path = group_media/SDL
+	url = https://github.com/SDL-mirror/SDL.git
