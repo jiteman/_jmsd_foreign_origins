@@ -22,3 +22,6 @@
 [submodule "group_media/vorbis"]
 	path = group_media/vorbis
 	url = https://github.com/xiph/vorbis.git
+[submodule "group_media/ogg"]
+	path = group_media/ogg
+	url = https://github.com/xiph/ogg.git
