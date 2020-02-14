@@ -25,3 +25,6 @@
 [submodule "group_media/ogg"]
 	path = group_media/ogg
 	url = https://github.com/xiph/ogg.git
+[submodule "group_media/freetype2"]
+	path = group_media/freetype2
+	url = https://git.savannah.gnu.org/git/freetype/freetype2.git
