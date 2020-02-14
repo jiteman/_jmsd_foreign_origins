@@ -28,3 +28,6 @@
 [submodule "group_media/freetype2"]
 	path = group_media/freetype2
 	url = https://git.savannah.gnu.org/git/freetype/freetype2.git
+[submodule "group_media/zlib"]
+	path = group_media/zlib
+	url = https://github.com/madler/zlib.git
