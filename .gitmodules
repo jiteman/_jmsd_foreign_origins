@@ -31,3 +31,6 @@
 [submodule "group_media/zlib"]
 	path = group_media/zlib
 	url = https://github.com/madler/zlib.git
+[submodule "group_media/glew-cmake"]
+	path = group_media/glew-cmake
+	url = https://github.com/Perlmint/glew-cmake.git
