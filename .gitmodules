@@ -34,3 +34,9 @@
 [submodule "group_media/glew-cmake"]
 	path = group_media/glew-cmake
 	url = https://github.com/Perlmint/glew-cmake.git
+[submodule "group_media/freealut"]
+	path = group_media/freealut
+	url = https://github.com/vancegroup/freealut.git
+[submodule "group_media/FreeGLUT"]
+	path = group_media/FreeGLUT
+	url = https://github.com/dcnieho/FreeGLUT.git
