@@ -37,3 +37,6 @@
 [submodule "group_media/FreeGLUT"]
 	path = group_media/FreeGLUT
 	url = https://github.com/dcnieho/FreeGLUT.git
+[submodule "group_media/freetype2"]
+	path = group_media/freetype2
+	url = https://github.com/aseprite/freetype2.git
