@@ -40,3 +40,6 @@
 [submodule "group_media/libpng"]
 	path = group_media/libpng
 	url = https://github.com/glennrp/libpng.git
+[submodule "group_media/freetype2"]
+	path = group_media/freetype2
+	url = https://github.com/personal-mirrors/freetype2.git
